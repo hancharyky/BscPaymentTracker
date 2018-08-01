@@ -1,3 +1,5 @@
+Execute as normal java program. Main -> run.
+
 1) The input should be checked
 2) We're working with resources so, should remove throw on main method and add meaningful error descriptions in log
 3) Printing the list of net values should be implemented asynchronously.
